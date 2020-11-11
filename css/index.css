@@ -1,0 +1,34 @@
+.nav-link {
+color: black;
+}
+
+
+.jumbotron, .jumbotron-fluid {
+    background-color: #f2f2f2;
+    text-align: center;
+}
+
+
+h1 {
+    margin: 50px;
+    text-decoration: underline;
+}
+
+
+
+#Definition {
+    background-color: #f2f2f2;
+    padding: 25px;  
+}
+
+
+
+#overview h5 {
+    text-align: justify;
+    margin: 50px;
+}
+
+
+
+
+
